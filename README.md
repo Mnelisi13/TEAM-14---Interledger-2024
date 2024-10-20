@@ -38,3 +38,7 @@ To run the app on your phone, download the **Expo Go** app from your device's ap
 
 ### 4. Running the App on Your Phone
 Scan the QR code generated from the server(your PC) using Expo Go.
+
+
+##Project Status
+Please note, we have different functions on two different forks. In the next 30 minutes, we aim to merge the two codebases into a single file.
